@@ -1,0 +1,23 @@
+{
+  "name": "docker_curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeovaniDarcie/Docker_Curso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeovaniDarcie/Docker_Curso/issues"
+  },
+  "homepage": "https://github.com/GeovaniDarcie/Docker_Curso#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
