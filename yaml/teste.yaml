@@ -1,0 +1,32 @@
+nome: "Geovani"
+idade: 23
+
+# Esse objeto descreve nosso projeto
+objeto:
+  teste: 2
+  versao: 3
+
+versao_completo: 3.14
+
+projeto: "joaobabao"
+
+nulo: ~
+nulo_2: null
+
+verdadeiro: True 
+verdadeiro_2: On
+
+lista: [1, 2, 3, 4, 5]
+
+list_dois: 
+  - "teste"
+  - 10
+  - aa
+  - true
+
+objeto: 
+  a: 1
+  b: 2
+  c: 3
+  objeto_interno:
+    d: 2  
